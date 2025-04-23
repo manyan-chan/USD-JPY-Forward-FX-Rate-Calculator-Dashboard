@@ -1,7 +1,7 @@
 # USD/JPY Forward FX Rate Calculator & Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://usd-jpy-forward-fx-rate-calculator-dashboard.streamlit.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A web application built with Streamlit to calculate the theoretical USD/JPY forward foreign exchange rate based on the current spot rate and the relevant interest rates for USD and JPY. It also visualizes the forward rate curve across standard tenors.
